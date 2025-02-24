@@ -77,4 +77,3 @@ dependencies:
   - xz=5.6.4=h4754444_1
   - zeromq=4.3.5=hd77b12b_0
   - zlib=1.2.13=h8cc25b3_1
-prefix: C:\Users\andri\miniconda3\envs\income-expense-sankey
